@@ -1,0 +1,3 @@
+FROM yyz1989/rdf4j
+
+EXPOSE 8009 8080
